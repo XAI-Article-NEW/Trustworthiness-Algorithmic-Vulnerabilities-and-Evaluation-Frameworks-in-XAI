@@ -16,8 +16,6 @@
 ## 📌 Genel Özet
 
 Yapay zekâ modelleri sağlık, finans ve otonom sistemler gibi kritik alanlarda yüksek tahmin performansı sağlarken, karar süreçlerinin opaklığı güvenilirlik, şeffaflık ve hesap verebilirlik açısından önemli sorunlar oluşturmaktadır. Bu çalışma, Açıklanabilir Yapay Zekâ (XAI) alanındaki araştırma eğilimlerini, yöntem dağılımlarını ve mevcut araştırma boşluklarını belirlemek amacıyla PRISMA 2020 ilkeleri doğrultusunda sistematik bir literatür taraması gerçekleştirmektedir. Web of Science, Scopus, IEEE Xplore ve ACM Digital Library veri tabanlarında belirlenen dahil etme ve dışlama kriterlerine göre çalışmalar incelenmiştir. Toplam 298 çalışma üzerinde gerçekleştirilen nicel kodlama, XAI araştırmalarında özellik atıf yöntemlerinin %39,6 (n=118) ile en yaygın birincil kategori olduğunu; bunu doğal şeffaf/beyaz-kutu yaklaşımların %28,5 (n=85), kural tabanlı açıklamaların %13,4 (n=40), görsel saliency/ısı haritası yaklaşımlarının %11,4 (n=34), örnek/prototip tabanlı yaklaşımların %4,7 (n=14) ve kavram tabanlı yaklaşımların %2,3 (n=7) oranlarıyla izlediğini göstermektedir. Açıklama zamanlaması açısından çalışmaların %66,4'ü (n=198) post-hoc, %33,6'sı (n=100) ise intrinsik açıklama yaklaşımlarına dayanmaktadır. Bulgular, XAI araştırmalarının ağırlıklı olarak sonradan üretilen açıklamalara yöneldiğini ve açıklanabilirliğin güvenilir yapay zekâ sistemlerinin tasarımına daha erken aşamalarda entegre edilmesine yönelik ihtiyacın sürdüğünü göstermektedir.
----
-
 ## 📁 Repository Structure
 
 ```bash
