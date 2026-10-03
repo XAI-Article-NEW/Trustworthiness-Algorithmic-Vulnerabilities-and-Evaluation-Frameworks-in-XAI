@@ -20,6 +20,6 @@ Yapay zekâ modelleri sağlık, finans ve otonom sistemler gibi kritik alanlarda
 
 ```bash
 ├── README.md                              # Interactive project documentation
-├── XAI_SLR_298_Data_Extraction.xlsx       # Comprehensive dataset of all 298 analyzed papers
+├── xai_slr_database.xlsx                  # Comprehensive dataset of all 298 analyzed papers
 
 
