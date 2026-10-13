@@ -6,8 +6,6 @@
 
 ### 📚 Systematic Literature Review (PRISMA 2020) • Data Extraction & Replication Repository
 
-[![PRISMA 2020](https://img.shields.io/badge/PRISMA-2020_Compliant-success?style=for-the-badge&logo=googledocs&logoColor=white)](https://doi.org/10.1136/bmj.n71)
-[![Dataset](https://img.shields.io/badge/Dataset-298_Studies-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#-data-extraction-matrix)
 
 </div>
 
